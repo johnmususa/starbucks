@@ -140,7 +140,7 @@ nav ul li a:hover{
 	font-weight: 400;
 	padding-left: 5px;
 	max-width: 600;
-	line-height: 31px;
+	line-height: 32px;
 	flex-grow: 1;
 	margin-bottom: 1.3rem;
 }
@@ -178,8 +178,8 @@ nav ul li a:hover{
 }
 .thumb{
 	position: absolute;
-	left: 40%;
-	bottom: 50px;
+	left: 37%;
+	bottom: 30px;
 	transform: translateX(-20%);
 	display: flex;
 	flex-grow: 1;
@@ -194,8 +194,8 @@ nav ul li a:hover{
 	transition: 0.5s ease-in-out;
 }
 .thumb li img{
-	max-width: 33px;
-	max-height: 70px;
+	max-width: 50px;
+	max-height: 80px;
 	filter: drop-shadow(0 0 15px orangered);
 }
 .thumb li:hover{
